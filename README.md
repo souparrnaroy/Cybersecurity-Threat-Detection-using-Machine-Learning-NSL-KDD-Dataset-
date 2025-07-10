@@ -34,8 +34,8 @@ Train the model
 Display accuracy and metrics
 
 Predict using custom user input
-## Aythor
-   Souparna Ro
+## Author
+   Souparna Roy
 
 
 
